@@ -49,7 +49,7 @@ const theme = extendTheme({
             }
           },
           '& fieldset': {
-            borderWidth: '1px !imporcltant'
+            borderWidth: '1px !important'
           }
         })
       }
